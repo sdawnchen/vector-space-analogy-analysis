@@ -1,0 +1,1279 @@
+sub_num,trial_num,trial_type,wordA,wordB,wordC,wordD,rating,RT
+1,1,real,nurse,patient,frog,tadpole,2,8579
+1,2,real,veil,face,password,access,3,7959
+1,3,real,brain,neuron,computer,chip,4,7005
+1,4,real,dog,mailman,cat,mouse,4,4791
+1,5,filler,mall,shops,widow,husband,1,3804
+1,6,real,bird,feathers,cat,whiskers,6,5462
+1,7,real,foot,shoe,wall,painting,5,8021
+1,8,real,lawyer,books,chemist,beakers,4,7924
+1,9,attention check,one,two,three,four,7,7686
+1,10,real,snail,shell,rabbit,burrow,3,9103
+1,11,real,wedding,bride,aquarium,fish,5,5284
+1,12,real,hat,head,disguise,identity,1,7486
+1,13,filler,beverage,water,deceit,truth,1,5038
+1,14,real,flock,bird,hangar,airplane,3,6854
+1,15,filler,slavery,freedom,movie,scene,1,4009
+1,16,real,egg,chicken,wine,vineyard,1,7958
+1,17,filler,class,student,child,adult,1,4678
+1,18,attention check,one,two,three,zero,1,4967
+2,1,filler,mall,shops,widow,husband,1,8868
+2,2,real,brain,neuron,computer,chip,7,5246
+2,3,real,nurse,patient,frog,tadpole,1,5402
+2,4,real,wedding,bride,aquarium,fish,5,4615
+2,5,real,lawyer,books,chemist,beakers,6,4071
+2,6,filler,slavery,freedom,movie,scene,4,4592
+2,7,real,student,backpack,rabbit,burrow,2,4537
+2,8,real,egg,chicken,wine,vineyard,5,4375
+2,9,attention check,one,two,three,four,7,3342
+2,10,filler,beverage,water,deceit,truth,2,4082
+2,11,real,foot,shoe,wall,painting,4,4661
+2,12,real,password,access,key,safe,2,4095
+2,13,real,dog,mailman,cat,mouse,7,4054
+2,14,real,hat,head,disguise,identity,4,4478
+2,15,real,person,clothes,bird,feathers,6,3352
+2,16,real,hive,bee,hangar,airplane,2,4117
+2,17,filler,class,student,child,adult,1,3584
+2,18,attention check,one,two,three,zero,1,2678
+3,1,filler,class,student,child,adult,1,7877
+3,2,real,flock,bird,hangar,airplane,1,4460
+3,3,real,lawyer,books,chemist,beakers,7,3598
+3,4,real,foot,shoe,wrist,bracelet,7,2837
+3,5,real,snail,shell,rabbit,burrow,7,4955
+3,6,real,cocoon,butterfly,wine,vineyard,2,4527
+3,7,real,nurse,patient,mother,baby,7,2732
+3,8,real,cat,mouse,horse,hay,3,4294
+3,9,attention check,one,two,three,zero,1,3509
+3,10,filler,mall,shops,widow,husband,1,4221
+3,11,real,veil,face,key,safe,1,3054
+3,12,filler,slavery,freedom,movie,scene,1,3981
+3,13,real,hat,head,disguise,identity,1,3275
+3,14,real,pride,lion,brain,neuron,7,4807
+3,15,real,bird,feathers,cat,whiskers,3,3722
+3,16,real,aquarium,fish,carton,milk,3,5246
+3,17,filler,beverage,water,deceit,truth,1,3696
+3,18,attention check,one,two,three,four,7,5090
+4,1,filler,class,student,child,adult,1,7115
+4,2,real,dog,mailman,cat,mouse,5,5639
+4,3,real,veil,face,password,access,4,4857
+4,4,filler,beverage,water,deceit,truth,1,4000
+4,5,real,egg,chicken,wine,vineyard,7,6558
+4,6,real,brain,neuron,computer,chip,6,23407
+4,7,filler,mall,shops,widow,husband,1,4376
+4,8,real,bird,feathers,cat,whiskers,7,4083
+4,9,attention check,one,two,three,four,7,4083
+4,10,real,hat,head,disguise,identity,3,23536
+4,11,real,snail,shell,rabbit,burrow,6,7253
+4,12,real,lawyer,books,chemist,beakers,7,3793
+4,13,real,flock,bird,hangar,airplane,2,6623
+4,14,real,wedding,bride,aquarium,fish,2,8483
+4,15,filler,slavery,freedom,movie,scene,1,19729
+4,16,real,nurse,patient,frog,tadpole,2,5516
+4,17,real,foot,shoe,wall,painting,4,4320
+4,18,attention check,one,two,three,zero,1,4283
+5,1,real,pride,lion,brain,neuron,7,5177
+5,2,real,cocoon,butterfly,egg,chicken,7,3081
+5,3,real,flock,bird,hive,bee,7,3124
+5,4,filler,class,student,child,adult,1,4876
+5,5,real,wedding,bride,carton,milk,2,8484
+5,6,filler,mall,shops,widow,husband,2,6251
+5,7,real,lawyer,books,librarian,books,2,9012
+5,8,filler,beverage,water,deceit,truth,1,5179
+5,9,attention check,one,two,three,four,7,3112
+5,10,real,veil,face,password,access,7,8048
+5,11,real,person,clothes,cat,whiskers,5,5019
+5,12,real,wrist,bracelet,wall,painting,7,5790
+5,13,real,dog,mailman,horse,hay,4,4047
+5,14,real,mother,baby,frog,tadpole,7,2389
+5,15,real,mask,face,disguise,identity,7,3809
+5,16,filler,slavery,freedom,movie,scene,1,3028
+5,17,real,snail,shell,rabbit,burrow,4,5579
+5,18,attention check,one,two,three,zero,1,3279
+6,1,real,egg,chicken,wine,vineyard,4,11059
+6,2,real,person,clothes,bird,feathers,6,7382
+6,3,real,hive,bee,hangar,airplane,7,7002
+6,4,filler,slavery,freedom,movie,scene,1,10181
+6,5,filler,class,student,child,adult,1,8314
+6,6,filler,beverage,water,deceit,truth,1,8623
+6,7,real,hat,head,mask,face,7,8015
+6,8,real,veil,face,key,safe,3,6377
+6,9,attention check,one,two,three,zero,1,9483
+6,10,real,pride,lion,computer,chip,1,13010
+6,11,real,foot,shoe,wrist,bracelet,7,12722
+6,12,real,cat,mouse,horse,hay,5,19628
+6,13,real,student,backpack,rabbit,burrow,1,9335
+6,14,filler,mall,shops,widow,husband,2,9891
+6,15,real,nurse,patient,frog,tadpole,1,10401
+6,16,real,aquarium,fish,carton,milk,6,6863
+6,17,real,lawyer,books,chemist,beakers,4,7653
+6,18,attention check,one,two,three,four,7,4342
+7,1,real,mother,baby,frog,tadpole,7,13601
+7,2,real,password,access,key,safe,4,28425
+7,3,real,foot,shoe,wall,painting,2,26735
+7,4,filler,class,student,child,adult,1,12276
+7,5,real,brain,neuron,computer,chip,7,8071
+7,6,real,person,clothes,cat,whiskers,2,9618
+7,7,real,cocoon,butterfly,egg,chicken,6,12035
+7,8,filler,beverage,water,deceit,truth,1,8044
+7,9,attention check,one,two,three,four,7,11713
+7,10,real,snail,shell,rabbit,burrow,7,9827
+7,11,real,wedding,bride,aquarium,fish,6,12410
+7,12,real,hat,head,disguise,identity,6,18167
+7,13,filler,slavery,freedom,movie,scene,1,11684
+7,14,real,lawyer,books,librarian,books,6,19365
+7,15,real,flock,bird,hive,bee,7,6094
+7,16,real,dog,mailman,cat,mouse,7,9767
+7,17,filler,mall,shops,widow,husband,1,7270
+7,18,attention check,one,two,three,zero,1,6863
+8,1,real,student,backpack,rabbit,burrow,7,9275
+8,2,real,nurse,patient,mother,baby,7,46082
+8,3,real,flock,bird,hive,bee,7,8356
+8,4,real,chemist,beakers,librarian,books,6,11749
+8,5,real,person,clothes,cat,whiskers,7,5463
+8,6,filler,slavery,freedom,movie,scene,3,8929
+8,7,real,foot,shoe,wrist,bracelet,7,7916
+8,8,real,hat,head,mask,face,6,6482
+8,9,attention check,one,two,three,zero,1,13421
+8,10,real,aquarium,fish,carton,milk,7,5241
+8,11,filler,beverage,water,deceit,truth,2,8143
+8,12,real,cat,mouse,horse,hay,2,7240
+8,13,real,password,access,key,safe,4,6907
+8,14,filler,mall,shops,widow,husband,4,10977
+8,15,filler,class,student,child,adult,7,6595
+8,16,real,pride,lion,computer,chip,3,7420
+8,17,real,cocoon,butterfly,wine,vineyard,7,11095
+8,18,attention check,one,two,three,four,7,3187
+9,1,real,aquarium,fish,carton,milk,3,14432
+9,2,filler,slavery,freedom,movie,scene,1,10271
+9,3,real,cocoon,butterfly,wine,vineyard,1,11286
+9,4,filler,beverage,water,deceit,truth,1,12490
+9,5,real,hat,head,disguise,identity,3,22145
+9,6,real,foot,shoe,wrist,bracelet,6,16126
+9,7,filler,mall,shops,widow,husband,1,8612
+9,8,real,snail,shell,rabbit,burrow,5,10339
+9,9,attention check,one,two,three,zero,2,21209
+9,10,real,cat,mouse,horse,hay,6,10013
+9,11,real,lawyer,books,chemist,beakers,5,14595
+9,12,real,flock,bird,hangar,airplane,2,7582
+9,13,filler,class,student,child,adult,1,8683
+9,14,real,nurse,patient,mother,baby,7,10979
+9,15,real,bird,feathers,cat,whiskers,3,14588
+9,16,real,pride,lion,brain,neuron,3,10527
+9,17,real,veil,face,key,safe,1,9211
+9,18,attention check,one,two,three,four,7,12526
+10,1,real,cocoon,butterfly,egg,chicken,6,12489
+10,2,real,lawyer,books,librarian,books,4,6846
+10,3,filler,mall,shops,widow,husband,1,6233
+10,4,filler,slavery,freedom,movie,scene,1,5048
+10,5,real,wrist,bracelet,wall,painting,6,7368
+10,6,real,dog,mailman,horse,hay,5,4662
+10,7,filler,class,student,child,adult,2,9133
+10,8,real,flock,bird,hive,bee,7,5192
+10,9,attention check,one,two,three,zero,1,5919
+10,10,real,snail,shell,rabbit,burrow,6,9452
+10,11,real,pride,lion,brain,neuron,2,6986
+10,12,real,mother,baby,frog,tadpole,7,4616
+10,13,real,wedding,bride,carton,milk,5,6112
+10,14,filler,beverage,water,deceit,truth,1,4450
+10,15,real,person,clothes,cat,whiskers,5,5990
+10,16,real,veil,face,password,access,2,4511
+10,17,real,mask,face,disguise,identity,5,6239
+10,18,attention check,one,two,three,four,7,3044
+11,1,real,wedding,bride,aquarium,fish,4,10348
+11,2,filler,beverage,water,deceit,truth,1,4350
+11,3,real,brain,neuron,computer,chip,7,3038
+11,4,real,password,access,key,safe,3,5433
+11,5,real,foot,shoe,wall,painting,5,3791
+11,6,real,student,backpack,rabbit,burrow,2,4130
+11,7,filler,class,student,child,adult,4,5817
+11,8,real,lawyer,books,chemist,beakers,7,4281
+11,9,attention check,one,two,three,zero,1,4232
+11,10,real,egg,chicken,wine,vineyard,7,4288
+11,11,real,nurse,patient,frog,tadpole,3,5637
+11,12,real,dog,mailman,cat,mouse,6,3731
+11,13,real,hat,head,disguise,identity,3,3800
+11,14,filler,slavery,freedom,movie,scene,3,4884
+11,15,filler,mall,shops,widow,husband,3,6098
+11,16,real,person,clothes,bird,feathers,7,2469
+11,17,real,hive,bee,hangar,airplane,6,2388
+11,18,attention check,one,two,three,four,7,2772
+12,1,real,foot,shoe,wall,painting,1,19046
+12,2,filler,mall,shops,widow,husband,1,6825
+12,3,filler,beverage,water,deceit,truth,1,10706
+12,4,real,nurse,patient,frog,tadpole,5,8390
+12,5,filler,slavery,freedom,movie,scene,1,5522
+12,6,filler,class,student,child,adult,6,4903
+12,7,real,egg,chicken,wine,vineyard,6,7485
+12,8,real,hive,bee,hangar,airplane,6,4683
+12,9,attention check,one,two,three,four,7,3678
+12,10,real,brain,neuron,computer,chip,7,4993
+12,11,real,person,clothes,bird,feathers,7,5473
+12,12,real,hat,head,disguise,identity,2,11284
+12,13,real,password,access,key,safe,3,9577
+12,14,real,dog,mailman,cat,mouse,7,7260
+12,15,real,wedding,bride,aquarium,fish,3,6596
+12,16,real,student,backpack,rabbit,burrow,5,14677
+12,17,real,lawyer,books,chemist,beakers,7,4740
+12,18,attention check,one,two,three,zero,1,6174
+13,1,real,hat,head,disguise,identity,2,8629
+13,2,filler,class,student,child,adult,1,8510
+13,3,real,snail,shell,rabbit,burrow,6,4893
+13,4,real,mother,baby,frog,tadpole,7,2735
+13,5,real,flock,bird,hive,bee,5,7583
+13,6,filler,mall,shops,widow,husband,1,3250
+13,7,real,cocoon,butterfly,egg,chicken,7,2584
+13,8,filler,slavery,freedom,movie,scene,1,4031
+13,9,attention check,one,two,three,zero,1,3590
+13,10,real,password,access,key,safe,6,7147
+13,11,real,brain,neuron,computer,chip,7,4727
+13,12,real,lawyer,books,librarian,books,4,4129
+13,13,real,wedding,bride,aquarium,fish,5,6872
+13,14,filler,beverage,water,deceit,truth,1,8104
+13,15,real,foot,shoe,wall,painting,3,6488
+13,16,real,person,clothes,cat,whiskers,4,5936
+13,17,real,dog,mailman,cat,mouse,7,3061
+13,18,attention check,one,two,three,four,7,2391
+14,1,real,foot,shoe,wall,painting,1,6252
+14,2,real,person,clothes,cat,whiskers,2,6569
+14,3,real,lawyer,books,librarian,books,1,4363
+14,4,real,brain,neuron,computer,chip,4,4617
+14,5,real,cocoon,butterfly,egg,chicken,7,5388
+14,6,real,dog,mailman,cat,mouse,7,7140
+14,7,real,password,access,key,safe,7,7126
+14,8,real,mother,baby,frog,tadpole,7,3243
+14,9,attention check,one,two,three,four,7,5515
+14,10,filler,slavery,freedom,movie,scene,1,5318
+14,11,filler,mall,shops,widow,husband,1,4284
+14,12,filler,beverage,water,deceit,truth,1,4625
+14,13,real,snail,shell,rabbit,burrow,4,6205
+14,14,real,flock,bird,hive,bee,7,2879
+14,15,real,wedding,bride,aquarium,fish,1,4681
+14,16,filler,class,student,child,adult,1,2728
+14,17,real,hat,head,disguise,identity,1,3499
+14,18,attention check,one,two,three,zero,1,6904
+15,1,filler,mall,shops,widow,husband,1,9305
+15,2,real,cocoon,butterfly,egg,chicken,2,5543
+15,3,real,snail,shell,rabbit,burrow,7,6190
+15,4,real,lawyer,books,librarian,books,4,3517
+15,5,filler,slavery,freedom,movie,scene,1,3733
+15,6,real,wedding,bride,carton,milk,5,2717
+15,7,real,dog,mailman,horse,hay,1,3529
+15,8,filler,beverage,water,deceit,truth,1,4198
+15,9,attention check,one,two,three,four,4,3749
+15,10,real,mother,baby,frog,tadpole,7,7287
+15,11,real,person,clothes,cat,whiskers,4,3220
+15,12,real,mask,face,disguise,identity,2,7887
+15,13,real,wrist,bracelet,wall,painting,5,3250
+15,14,real,pride,lion,brain,neuron,2,3171
+15,15,real,veil,face,password,access,2,4261
+15,16,real,flock,bird,hive,bee,7,4532
+15,17,filler,class,student,child,adult,1,5991
+15,18,attention check,one,two,three,zero,1,2477
+16,1,real,brain,neuron,computer,chip,4,10311
+16,2,real,egg,chicken,wine,vineyard,5,8343
+16,3,real,student,backpack,rabbit,burrow,3,4232
+16,4,filler,slavery,freedom,movie,scene,2,7431
+16,5,filler,beverage,water,deceit,truth,1,6386
+16,6,real,dog,mailman,cat,mouse,6,6642
+16,7,real,wedding,bride,aquarium,fish,5,6174
+16,8,filler,class,student,child,adult,1,5457
+16,9,attention check,one,two,three,four,7,4341
+16,10,filler,mall,shops,widow,husband,1,15478
+16,11,real,password,access,key,safe,6,7039
+16,12,real,lawyer,books,chemist,beakers,6,5767
+16,13,real,hat,head,disguise,identity,2,4989
+16,14,real,person,clothes,bird,feathers,6,4407
+16,15,real,nurse,patient,frog,tadpole,1,5558
+16,16,real,hive,bee,hangar,airplane,3,7805
+16,17,real,foot,shoe,wall,painting,1,6234
+16,18,attention check,one,two,three,zero,1,3036
+17,1,real,pride,lion,brain,neuron,4,12553
+17,2,real,nurse,patient,mother,baby,4,1150
+17,3,real,bird,feathers,cat,whiskers,5,970
+17,4,real,lawyer,books,chemist,beakers,3,1505
+17,5,real,cocoon,butterfly,wine,vineyard,4,995
+17,6,real,foot,shoe,wrist,bracelet,5,1036
+17,7,filler,mall,shops,widow,husband,3,3916
+17,8,filler,slavery,freedom,movie,scene,6,2882
+17,9,attention check,one,two,three,four,7,3955
+17,10,filler,beverage,water,deceit,truth,3,2989
+17,11,real,veil,face,key,safe,4,1047
+17,12,real,flock,bird,hangar,airplane,5,930
+17,13,real,snail,shell,rabbit,burrow,5,1000
+17,14,real,aquarium,fish,carton,milk,4,1209
+17,15,filler,class,student,child,adult,3,1231
+17,16,real,cat,mouse,horse,hay,3,907
+17,17,real,hat,head,disguise,identity,4,759
+17,18,attention check,one,two,three,zero,1,1966
+18,1,real,mother,baby,frog,tadpole,5,7493
+18,2,real,veil,face,password,access,2,5809
+18,3,real,snail,shell,rabbit,burrow,1,5220
+18,4,real,person,clothes,cat,whiskers,2,5558
+18,5,real,pride,lion,brain,neuron,7,6499
+18,6,real,lawyer,books,librarian,books,1,3747
+18,7,real,wedding,bride,carton,milk,7,5637
+18,8,filler,class,student,child,adult,4,5340
+18,9,attention check,one,two,three,four,7,10927
+18,10,real,mask,face,disguise,identity,2,13732
+18,11,filler,slavery,freedom,movie,scene,1,5357
+18,12,filler,mall,shops,widow,husband,2,6029
+18,13,real,dog,mailman,horse,hay,1,8862
+18,14,real,cocoon,butterfly,egg,chicken,7,3157
+18,15,real,flock,bird,hive,bee,7,5898
+18,16,real,wrist,bracelet,wall,painting,6,15741
+18,17,filler,beverage,water,deceit,truth,1,5066
+18,18,attention check,one,two,three,zero,1,7331
+19,1,real,egg,chicken,wine,vineyard,1,11592
+19,2,real,dog,mailman,cat,mouse,1,4690
+19,3,real,veil,face,password,access,3,14149
+19,4,real,hat,head,disguise,identity,4,28508
+19,5,real,bird,feathers,cat,whiskers,7,6300
+19,6,filler,class,student,child,adult,3,16005
+19,7,real,snail,shell,rabbit,burrow,6,4157
+19,8,real,brain,neuron,computer,chip,7,9541
+19,9,attention check,one,two,three,four,7,5336
+19,10,filler,slavery,freedom,movie,scene,3,10465
+19,11,real,lawyer,books,chemist,beakers,7,5339
+19,12,real,foot,shoe,wall,painting,3,24397
+19,13,filler,mall,shops,widow,husband,1,8581
+19,14,real,nurse,patient,frog,tadpole,1,8694
+19,15,real,flock,bird,hangar,airplane,4,16125
+19,16,filler,beverage,water,deceit,truth,1,8829
+19,17,real,wedding,bride,aquarium,fish,4,11717
+19,18,attention check,one,two,three,zero,1,5700
+20,1,real,mother,baby,frog,tadpole,6,8385
+20,2,real,person,clothes,cat,whiskers,3,14737
+20,3,real,brain,neuron,computer,chip,6,5250
+20,4,filler,beverage,water,deceit,truth,1,5548
+20,5,real,wedding,bride,aquarium,fish,3,14182
+20,6,real,password,access,key,safe,2,10152
+20,7,filler,mall,shops,widow,husband,2,6898
+20,8,filler,class,student,child,adult,2,5087
+20,9,attention check,one,two,three,zero,1,9875
+20,10,real,lawyer,books,librarian,books,3,11962
+20,11,real,foot,shoe,wall,painting,4,8866
+20,12,real,snail,shell,rabbit,burrow,4,6337
+20,13,real,dog,mailman,cat,mouse,2,4558
+20,14,filler,slavery,freedom,movie,scene,1,9485
+20,15,real,hat,head,disguise,identity,3,7378
+20,16,real,cocoon,butterfly,egg,chicken,6,6077
+20,17,real,flock,bird,hive,bee,6,7765
+20,18,attention check,one,two,three,four,7,4524
+21,1,real,cocoon,butterfly,egg,chicken,6,24144
+21,2,real,student,backpack,snail,shell,2,10577
+21,3,real,pride,lion,brain,neuron,4,9746
+21,4,filler,beverage,water,deceit,truth,1,13234
+21,5,real,wedding,bride,carton,milk,2,10943
+21,6,real,person,clothes,bird,feathers,4,19282
+21,7,real,mask,face,disguise,identity,5,13631
+21,8,filler,mall,shops,widow,husband,2,10730
+21,9,attention check,one,two,three,four,7,4691
+21,10,real,veil,face,key,safe,1,10165
+21,11,filler,slavery,freedom,movie,scene,1,10235
+21,12,real,lawyer,books,librarian,books,1,7424
+21,13,filler,class,student,child,adult,1,11079
+21,14,real,dog,mailman,horse,hay,3,12387
+21,15,real,mother,baby,frog,tadpole,7,8793
+21,16,real,wrist,bracelet,wall,painting,6,12503
+21,17,real,hive,bee,hangar,airplane,7,5758
+21,18,attention check,one,two,three,zero,1,2962
+22,1,filler,slavery,freedom,movie,scene,3,10277
+22,2,filler,class,student,child,adult,6,5023
+22,3,real,wedding,bride,aquarium,fish,6,3202
+22,4,real,dog,mailman,cat,mouse,2,3654
+22,5,real,hive,bee,hangar,airplane,4,3906
+22,6,real,egg,chicken,wine,vineyard,3,4097
+22,7,real,nurse,patient,frog,tadpole,4,5182
+22,8,filler,beverage,water,deceit,truth,2,5753
+22,9,attention check,one,two,three,zero,2,3464
+22,10,real,password,access,key,safe,4,4151
+22,11,real,pride,lion,computer,chip,4,9804
+22,12,real,foot,shoe,wall,painting,2,5188
+22,13,filler,mall,shops,widow,husband,1,3148
+22,14,real,person,clothes,bird,feathers,4,2936
+22,15,real,student,backpack,snail,shell,3,4757
+22,16,real,mask,face,disguise,identity,2,4577
+22,17,real,lawyer,books,librarian,books,4,2126
+22,18,attention check,one,two,three,four,7,5273
+23,1,filler,class,student,child,adult,2,15199
+23,2,filler,beverage,water,deceit,truth,1,7650
+23,3,real,password,access,key,safe,7,5443
+23,4,filler,slavery,freedom,movie,scene,1,10403
+23,5,real,hat,head,mask,face,7,4653
+23,6,real,cat,mouse,horse,hay,5,8072
+23,7,real,foot,shoe,wrist,bracelet,6,7262
+23,8,real,chemist,beakers,librarian,books,7,4451
+23,9,attention check,one,two,three,four,7,8940
+23,10,real,aquarium,fish,carton,milk,6,5693
+23,11,real,cocoon,butterfly,wine,vineyard,5,9993
+23,12,real,flock,bird,hive,bee,5,7825
+23,13,real,student,backpack,rabbit,burrow,5,8995
+23,14,real,nurse,patient,mother,baby,7,9233
+23,15,real,pride,lion,computer,chip,5,23033
+23,16,real,person,clothes,cat,whiskers,6,5372
+23,17,filler,mall,shops,widow,husband,2,9447
+23,18,attention check,one,two,three,zero,1,5044
+25,1,real,student,backpack,snail,shell,5,15567
+25,2,real,nurse,patient,mother,baby,5,15177
+25,3,real,foot,shoe,wrist,bracelet,6,14376
+25,4,real,flock,bird,hangar,airplane,2,5790
+25,5,real,bird,feathers,cat,whiskers,3,5613
+25,6,real,cocoon,butterfly,wine,vineyard,2,12490
+25,7,real,cat,mouse,horse,hay,1,6746
+25,8,real,veil,face,key,safe,1,10722
+25,9,attention check,one,two,three,four,7,6393
+25,10,filler,beverage,water,deceit,truth,1,5819
+25,11,filler,mall,shops,widow,husband,1,7270
+25,12,real,hat,head,mask,face,6,6333
+25,13,filler,slavery,freedom,movie,scene,1,6164
+25,14,real,pride,lion,computer,chip,2,4428
+25,15,filler,class,student,child,adult,2,6933
+25,16,real,chemist,beakers,librarian,books,5,4101
+25,17,real,aquarium,fish,carton,milk,3,10435
+25,18,attention check,one,two,three,zero,1,3051
+26,1,filler,beverage,water,deceit,truth,4,8624
+26,2,real,pride,lion,brain,neuron,6,9926
+26,3,real,lawyer,books,chemist,beakers,7,5230
+26,4,real,veil,face,key,safe,5,5109
+26,5,filler,mall,shops,widow,husband,2,6166
+26,6,real,nurse,patient,mother,baby,6,5422
+26,7,real,aquarium,fish,carton,milk,7,3630
+26,8,real,hat,head,disguise,identity,6,4574
+26,9,attention check,one,two,three,four,7,3961
+26,10,filler,class,student,child,adult,2,4783
+26,11,real,flock,bird,hangar,airplane,2,3638
+26,12,real,cat,mouse,horse,hay,6,4574
+26,13,real,bird,feathers,cat,whiskers,6,4437
+26,14,filler,slavery,freedom,movie,scene,2,3870
+26,15,real,cocoon,butterfly,wine,vineyard,5,5182
+26,16,real,snail,shell,rabbit,burrow,7,3694
+26,17,real,foot,shoe,wrist,bracelet,6,7910
+26,18,attention check,one,two,three,zero,1,2448
+27,1,real,brain,neuron,computer,chip,7,10507
+27,2,filler,class,student,child,adult,1,5052
+27,3,real,wedding,bride,aquarium,fish,2,13965
+27,4,real,veil,face,password,access,4,15506
+27,5,filler,beverage,water,deceit,truth,1,5940
+27,6,real,foot,shoe,wall,painting,2,10317
+27,7,real,snail,shell,rabbit,burrow,6,5498
+27,8,filler,slavery,freedom,movie,scene,1,5147
+27,9,attention check,one,two,three,four,7,5784
+27,10,real,dog,mailman,cat,mouse,7,11999
+27,11,real,hat,head,disguise,identity,5,7359
+27,12,real,lawyer,books,chemist,beakers,6,5430
+27,13,filler,mall,shops,widow,husband,1,6320
+27,14,real,nurse,patient,frog,tadpole,1,8880
+27,15,real,egg,chicken,wine,vineyard,7,9032
+27,16,real,flock,bird,hangar,airplane,3,6018
+27,17,real,bird,feathers,cat,whiskers,7,4806
+27,18,attention check,one,two,three,zero,1,3206
+28,1,filler,beverage,water,deceit,truth,1,4849
+28,2,real,mask,face,disguise,identity,7,4824
+28,3,real,veil,face,password,access,7,3402
+28,4,filler,mall,shops,widow,husband,4,3561
+28,5,real,snail,shell,rabbit,burrow,5,4955
+28,6,real,cocoon,butterfly,egg,chicken,7,4757
+28,7,real,pride,lion,brain,neuron,4,3744
+28,8,filler,slavery,freedom,movie,scene,1,2761
+28,9,attention check,one,two,three,four,7,2666
+28,10,filler,class,student,child,adult,1,8605
+28,11,real,dog,mailman,horse,hay,1,3611
+28,12,real,lawyer,books,librarian,books,1,2637
+28,13,real,person,clothes,cat,whiskers,3,2841
+28,14,real,mother,baby,frog,tadpole,7,3147
+28,15,real,wedding,bride,carton,milk,4,3053
+28,16,real,flock,bird,hive,bee,7,2783
+28,17,real,wrist,bracelet,wall,painting,6,2829
+28,18,attention check,one,two,three,zero,1,1892
+29,1,real,student,backpack,rabbit,burrow,2,6470
+29,2,filler,class,student,child,adult,1,3771
+29,3,real,hive,bee,hangar,airplane,7,3318
+29,4,filler,beverage,water,deceit,truth,1,5584
+29,5,real,person,clothes,bird,feathers,7,3742
+29,6,real,hat,head,mask,face,7,4034
+29,7,real,nurse,patient,frog,tadpole,2,6019
+29,8,real,foot,shoe,wrist,bracelet,7,12741
+29,9,attention check,one,two,three,zero,1,3420
+29,10,real,aquarium,fish,carton,milk,7,7962
+29,11,real,lawyer,books,chemist,beakers,7,12873
+29,12,filler,mall,shops,widow,husband,1,4307
+29,13,real,pride,lion,computer,chip,1,3861
+29,14,filler,slavery,freedom,movie,scene,1,3522
+29,15,real,egg,chicken,wine,vineyard,7,6277
+29,16,real,veil,face,key,safe,1,28313
+29,17,real,cat,mouse,horse,hay,6,8374
+29,18,attention check,one,two,three,four,7,6011
+30,1,filler,slavery,freedom,movie,scene,5,9751
+30,2,real,snail,shell,rabbit,burrow,4,6212
+30,3,real,wedding,bride,carton,milk,3,24854
+30,4,real,mask,face,disguise,identity,5,1687
+30,5,real,veil,face,password,access,5,7398
+30,6,real,person,clothes,cat,whiskers,3,3183
+30,7,real,dog,mailman,horse,hay,2,6142
+30,8,filler,beverage,water,deceit,truth,5,129420
+30,9,attention check,one,two,three,zero,3,2793
+30,10,real,wrist,bracelet,wall,painting,2,3456
+30,11,filler,class,student,child,adult,5,5886
+30,12,real,pride,lion,brain,neuron,6,2247
+30,13,real,flock,bird,hive,bee,2,2997
+30,14,real,mother,baby,frog,tadpole,3,4823
+30,15,real,lawyer,books,librarian,books,5,1943
+30,16,real,cocoon,butterfly,egg,chicken,2,3766
+30,17,filler,mall,shops,widow,husband,3,3711
+30,18,attention check,one,two,three,four,6,1236
+31,1,real,foot,shoe,wrist,bracelet,6,10361
+31,2,real,flock,bird,hangar,airplane,2,9527
+31,3,real,bird,feathers,cat,whiskers,4,7431
+31,4,real,chemist,beakers,librarian,books,6,5255
+31,5,filler,beverage,water,deceit,truth,1,12358
+31,6,real,cat,mouse,horse,hay,5,11559
+31,7,real,student,backpack,snail,shell,6,4255
+31,8,real,cocoon,butterfly,wine,vineyard,2,7574
+31,9,attention check,one,two,three,four,7,7235
+31,10,filler,mall,shops,widow,husband,1,10100
+31,11,real,veil,face,key,safe,1,9391
+31,12,real,hat,head,mask,face,7,4615
+31,13,real,aquarium,fish,carton,milk,6,5279
+31,14,filler,slavery,freedom,movie,scene,1,6471
+31,15,real,nurse,patient,mother,baby,6,9967
+31,16,real,pride,lion,computer,chip,6,7487
+31,17,filler,class,student,child,adult,1,8823
+31,18,attention check,one,two,three,zero,1,6170
+33,1,real,mask,face,disguise,identity,6,9440
+33,2,filler,beverage,water,deceit,truth,1,9726
+33,3,real,bird,feathers,cat,whiskers,7,9112
+33,4,filler,class,student,child,adult,1,9613
+33,5,real,chemist,beakers,librarian,books,7,5774
+33,6,real,nurse,patient,mother,baby,7,5841
+33,7,real,wedding,bride,carton,milk,4,10028
+33,8,real,pride,lion,brain,neuron,2,10256
+33,9,attention check,one,two,three,four,6,6891
+33,10,real,student,backpack,snail,shell,7,8849
+33,11,real,wrist,bracelet,wall,painting,7,6520
+33,12,real,dog,mailman,horse,hay,1,5719
+33,13,filler,slavery,freedom,movie,scene,1,11627
+33,14,real,flock,bird,hangar,airplane,6,8745
+33,15,real,veil,face,password,access,3,12848
+33,16,real,cocoon,butterfly,wine,vineyard,2,16112
+33,17,filler,mall,shops,widow,husband,1,9257
+33,18,attention check,one,two,three,zero,1,5159
+34,1,real,wrist,bracelet,wall,painting,7,3881
+34,2,filler,class,student,child,adult,1,7016
+34,3,real,mask,face,disguise,identity,4,4058
+34,4,real,dog,mailman,horse,hay,1,3542
+34,5,filler,mall,shops,widow,husband,1,2977
+34,6,real,cocoon,butterfly,egg,chicken,7,3708
+34,7,filler,slavery,freedom,movie,scene,1,3033
+34,8,filler,beverage,water,deceit,truth,7,3416
+34,9,attention check,one,two,three,four,7,5896
+34,10,real,wedding,bride,carton,milk,6,5352
+34,11,real,person,clothes,bird,feathers,7,3399
+34,12,real,pride,lion,brain,neuron,1,13328
+34,13,real,student,backpack,snail,shell,7,4684
+34,14,real,lawyer,books,librarian,books,2,4686
+34,15,real,veil,face,key,safe,6,5213
+34,16,real,hive,bee,hangar,airplane,7,5301
+34,17,real,mother,baby,frog,tadpole,6,4043
+34,18,attention check,one,two,three,zero,1,2793
+35,1,real,egg,chicken,wine,vineyard,5,12001
+35,2,filler,beverage,water,deceit,truth,1,10046
+35,3,real,person,clothes,bird,feathers,7,3796
+35,4,filler,slavery,freedom,movie,scene,1,7408
+35,5,real,hat,head,mask,face,4,8668
+35,6,real,foot,shoe,wrist,bracelet,7,5153
+35,7,real,lawyer,books,chemist,beakers,7,5500
+35,8,real,veil,face,key,safe,3,10053
+35,9,attention check,one,two,three,four,1,4417
+35,10,filler,class,student,child,adult,1,11741
+35,11,real,nurse,patient,frog,tadpole,1,11135
+35,12,real,student,backpack,rabbit,burrow,2,5687
+35,13,real,pride,lion,computer,chip,5,7833
+35,14,real,cat,mouse,horse,hay,1,4539
+35,15,real,aquarium,fish,carton,milk,1,13717
+35,16,real,hive,bee,hangar,airplane,7,19303
+35,17,filler,mall,shops,widow,husband,1,4720
+35,18,attention check,one,two,three,zero,1,6228
+36,1,filler,beverage,water,deceit,truth,5,25718
+36,2,real,dog,mailman,cat,mouse,2,27984
+36,3,real,student,backpack,snail,shell,7,5485
+36,4,filler,mall,shops,widow,husband,7,10131
+36,5,real,foot,shoe,wall,painting,7,4720
+36,6,real,egg,chicken,wine,vineyard,7,4513
+36,7,real,mask,face,disguise,identity,7,5632
+36,8,real,wedding,bride,aquarium,fish,7,4511
+36,9,attention check,one,two,three,zero,1,14329
+36,10,real,password,access,key,safe,7,6950
+36,11,filler,class,student,child,adult,2,8478
+36,12,filler,slavery,freedom,movie,scene,7,4956
+36,13,real,nurse,patient,frog,tadpole,7,3535
+36,14,real,lawyer,books,librarian,books,2,24266
+36,15,real,person,clothes,bird,feathers,7,3695
+36,16,real,hive,bee,hangar,airplane,7,3649
+36,17,real,pride,lion,computer,chip,7,3712
+36,18,attention check,one,two,three,four,7,5378
+37,1,filler,mall,shops,widow,husband,3,10945
+37,2,real,dog,mailman,cat,mouse,7,9617
+37,3,real,brain,neuron,computer,chip,4,6654
+37,4,real,foot,shoe,wall,painting,6,9857
+37,5,real,student,backpack,rabbit,burrow,2,7254
+37,6,real,wedding,bride,aquarium,fish,3,4897
+37,7,real,egg,chicken,wine,vineyard,7,9532
+37,8,filler,class,student,child,adult,2,11843
+37,9,attention check,one,two,three,zero,1,5393
+37,10,real,nurse,patient,frog,tadpole,3,8027
+37,11,real,hat,head,disguise,identity,6,6938
+37,12,filler,beverage,water,deceit,truth,3,7052
+37,13,filler,slavery,freedom,movie,scene,4,5889
+37,14,real,hive,bee,hangar,airplane,7,4470
+37,15,real,password,access,key,safe,7,6135
+37,16,real,lawyer,books,chemist,beakers,4,6037
+37,17,real,person,clothes,bird,feathers,6,5007
+37,18,attention check,one,two,three,four,7,3625
+38,1,real,brain,neuron,computer,chip,7,5578
+38,2,real,cocoon,butterfly,egg,chicken,5,7043
+38,3,real,wedding,bride,carton,milk,3,5511
+38,4,real,person,clothes,cat,whiskers,1,3619
+38,5,filler,class,student,child,adult,1,4173
+38,6,real,wrist,bracelet,wall,painting,6,6657
+38,7,filler,mall,shops,widow,husband,1,13234
+38,8,real,mother,baby,frog,tadpole,7,5602
+38,9,attention check,one,two,three,four,7,5325
+38,10,real,dog,mailman,horse,hay,1,8956
+38,11,real,veil,face,password,access,4,9417
+38,12,filler,beverage,water,deceit,truth,1,4768
+38,13,real,flock,bird,hive,bee,6,5477
+38,14,real,hat,head,mask,face,7,4376
+38,15,real,student,backpack,rabbit,burrow,2,5345
+38,16,real,chemist,beakers,librarian,books,7,4559
+38,17,filler,slavery,freedom,movie,scene,4,15065
+38,18,attention check,one,two,three,zero,1,10530
+39,1,real,foot,shoe,wrist,bracelet,6,12790
+39,2,real,person,clothes,cat,whiskers,1,4120
+39,3,real,cocoon,butterfly,wine,vineyard,1,8277
+39,4,real,cat,mouse,horse,hay,7,7562
+39,5,real,pride,lion,computer,chip,1,9739
+39,6,real,hat,head,mask,face,7,4744
+39,7,real,chemist,beakers,librarian,books,7,7781
+39,8,real,password,access,key,safe,7,7752
+39,9,attention check,one,two,three,zero,1,5158
+39,10,filler,mall,shops,widow,husband,7,7976
+39,11,filler,beverage,water,deceit,truth,1,4594
+39,12,real,flock,bird,hive,bee,7,4736
+39,13,filler,slavery,freedom,movie,scene,1,3298
+39,14,real,aquarium,fish,carton,milk,7,4933
+39,15,real,nurse,patient,mother,baby,7,4113
+39,16,filler,class,student,child,adult,1,4977
+39,17,real,student,backpack,rabbit,burrow,1,6194
+39,18,attention check,one,two,three,four,7,3393
+40,1,real,bird,feathers,cat,whiskers,6,3185
+40,2,real,student,backpack,snail,shell,5,935
+40,3,real,flock,bird,hangar,airplane,5,944
+40,4,real,cat,mouse,horse,hay,3,896
+40,5,real,aquarium,fish,carton,milk,4,869
+40,6,real,pride,lion,computer,chip,5,857
+40,7,real,veil,face,key,safe,3,1143
+40,8,filler,slavery,freedom,movie,scene,4,831
+40,9,attention check,one,two,three,four,7,1843
+40,10,real,hat,head,mask,face,4,1222
+40,11,real,foot,shoe,wrist,bracelet,3,1041
+40,12,filler,class,student,child,adult,5,1595
+40,13,real,chemist,beakers,librarian,books,4,813
+40,14,filler,beverage,water,deceit,truth,3,1278
+40,15,filler,mall,shops,widow,husband,5,1201
+40,16,real,cocoon,butterfly,wine,vineyard,4,946
+40,17,real,nurse,patient,mother,baby,4,1306
+40,18,attention check,one,two,three,zero,1,1489
+41,1,filler,mall,shops,widow,husband,6,10236
+41,2,real,wedding,bride,carton,milk,6,9652
+41,3,real,veil,face,password,access,5,6332
+41,4,real,mask,face,disguise,identity,5,7985
+41,5,real,wrist,bracelet,wall,painting,4,4948
+41,6,real,pride,lion,brain,neuron,5,5122
+41,7,filler,beverage,water,deceit,truth,3,5478
+41,8,filler,slavery,freedom,movie,scene,5,7213
+41,9,attention check,one,two,three,zero,1,15394
+41,10,real,chemist,beakers,librarian,books,4,5715
+41,11,real,dog,mailman,horse,hay,5,2478
+41,12,filler,class,student,child,adult,3,2405
+41,13,real,flock,bird,hangar,airplane,5,2028
+41,14,real,nurse,patient,mother,baby,5,1994
+41,15,real,cocoon,butterfly,wine,vineyard,5,3139
+41,16,real,bird,feathers,cat,whiskers,4,2624
+41,17,real,student,backpack,snail,shell,6,4918
+41,18,attention check,one,two,three,four,7,5687
+42,1,real,veil,face,password,access,1,10529
+42,2,filler,class,student,child,adult,2,10824
+42,3,filler,beverage,water,deceit,truth,1,8819
+42,4,real,lawyer,books,chemist,beakers,4,7496
+42,5,real,bird,feathers,cat,whiskers,7,9513
+42,6,real,snail,shell,rabbit,burrow,3,17032
+42,7,real,dog,mailman,cat,mouse,2,8016
+42,8,real,egg,chicken,wine,vineyard,5,11081
+42,9,attention check,one,two,three,zero,1,5862
+42,10,real,brain,neuron,computer,chip,5,8025
+42,11,real,flock,bird,hangar,airplane,4,6669
+42,12,real,nurse,patient,frog,tadpole,2,8392
+42,13,filler,slavery,freedom,movie,scene,1,6750
+42,14,real,foot,shoe,wall,painting,2,7794
+42,15,filler,mall,shops,widow,husband,1,6722
+42,16,real,wedding,bride,aquarium,fish,2,5788
+42,17,real,hat,head,disguise,identity,3,5324
+42,18,attention check,one,two,three,four,7,7137
+43,1,real,cocoon,butterfly,egg,chicken,4,11811
+43,2,real,wedding,bride,carton,milk,5,18155
+43,3,filler,mall,shops,widow,husband,1,10037
+43,4,filler,slavery,freedom,movie,scene,1,4354
+43,5,real,veil,face,key,safe,2,11253
+43,6,real,student,backpack,snail,shell,7,4798
+43,7,filler,beverage,water,deceit,truth,1,5831
+43,8,real,wrist,bracelet,wall,painting,7,12510
+43,9,attention check,one,two,three,zero,1,4270
+43,10,real,person,clothes,bird,feathers,7,10937
+43,11,real,pride,lion,brain,neuron,5,9585
+43,12,real,mother,baby,frog,tadpole,6,9332
+43,13,filler,class,student,child,adult,1,4545
+43,14,real,dog,mailman,horse,hay,1,6384
+43,15,real,lawyer,books,librarian,books,1,5025
+43,16,real,mask,face,disguise,identity,7,10901
+43,17,real,hive,bee,hangar,airplane,6,5560
+43,18,attention check,one,two,three,four,7,3515
+44,1,real,pride,lion,brain,neuron,3,18861
+44,2,filler,beverage,water,deceit,truth,6,8558
+44,3,real,mother,baby,frog,tadpole,7,6090
+44,4,real,veil,face,key,safe,6,5731
+44,5,filler,slavery,freedom,movie,scene,2,5012
+44,6,filler,class,student,child,adult,5,7583
+44,7,real,hive,bee,hangar,airplane,6,7661
+44,8,real,dog,mailman,horse,hay,1,4997
+44,9,attention check,one,two,three,four,7,4745
+44,10,real,wedding,bride,carton,milk,3,6155
+44,11,real,wrist,bracelet,wall,painting,5,5873
+44,12,filler,mall,shops,widow,husband,2,5420
+44,13,real,lawyer,books,librarian,books,5,6028
+44,14,real,student,backpack,snail,shell,5,4636
+44,15,real,cocoon,butterfly,egg,chicken,6,9295
+44,16,real,mask,face,disguise,identity,5,6699
+44,17,real,person,clothes,bird,feathers,6,5335
+44,18,attention check,one,two,three,zero,1,10487
+45,1,real,flock,bird,hangar,airplane,2,10118
+45,2,filler,beverage,water,deceit,truth,1,7768
+45,3,real,student,backpack,snail,shell,6,6583
+45,4,real,pride,lion,computer,chip,4,11426
+45,5,filler,class,student,child,adult,2,10537
+45,6,real,veil,face,key,safe,3,20138
+45,7,real,cocoon,butterfly,wine,vineyard,1,7641
+45,8,filler,mall,shops,widow,husband,1,13653
+45,9,attention check,one,two,three,four,7,10238
+45,10,real,hat,head,mask,face,7,10532
+45,11,real,nurse,patient,mother,baby,6,7245
+45,12,real,bird,feathers,cat,whiskers,6,6430
+45,13,real,aquarium,fish,carton,milk,5,16321
+45,14,real,foot,shoe,wrist,bracelet,7,8028
+45,15,filler,slavery,freedom,movie,scene,1,7054
+45,16,real,chemist,beakers,librarian,books,6,15110
+45,17,real,cat,mouse,horse,hay,3,5349
+45,18,attention check,one,two,three,zero,1,6218
+46,1,filler,class,student,child,adult,1,4238
+46,2,real,hive,bee,hangar,airplane,7,2451
+46,3,real,lawyer,books,chemist,beakers,7,2840
+46,4,real,hat,head,mask,face,7,2064
+46,5,real,person,clothes,bird,feathers,7,1750
+46,6,real,aquarium,fish,carton,milk,7,4252
+46,7,real,nurse,patient,frog,tadpole,4,2901
+46,8,real,student,backpack,rabbit,burrow,1,2635
+46,9,attention check,one,two,three,four,7,2957
+46,10,real,veil,face,key,safe,1,3298
+46,11,filler,mall,shops,widow,husband,1,3259
+46,12,filler,slavery,freedom,movie,scene,1,2778
+46,13,filler,beverage,water,deceit,truth,1,4785
+46,14,real,pride,lion,computer,chip,2,4762
+46,15,real,cat,mouse,horse,hay,6,3796
+46,16,real,egg,chicken,wine,vineyard,1,3513
+46,17,real,foot,shoe,wrist,bracelet,7,2432
+46,18,attention check,one,two,three,zero,1,2155
+47,1,real,flock,bird,hangar,airplane,5,18745
+47,2,filler,slavery,freedom,movie,scene,3,11390
+47,3,real,snail,shell,rabbit,burrow,7,7183
+47,4,real,cocoon,butterfly,wine,vineyard,4,6475
+47,5,filler,mall,shops,widow,husband,2,8598
+47,6,real,lawyer,books,chemist,beakers,6,9062
+47,7,real,foot,shoe,wrist,bracelet,7,5862
+47,8,real,veil,face,key,safe,3,5606
+47,9,attention check,one,two,three,four,7,6343
+47,10,real,nurse,patient,mother,baby,7,6934
+47,11,real,aquarium,fish,carton,milk,7,7846
+47,12,filler,class,student,child,adult,3,13237
+47,13,filler,beverage,water,deceit,truth,3,9143
+47,14,real,pride,lion,brain,neuron,4,5598
+47,15,real,bird,feathers,cat,whiskers,5,7885
+47,16,real,cat,mouse,horse,hay,2,4906
+47,17,real,hat,head,disguise,identity,4,9197
+47,18,attention check,one,two,three,zero,1,4614
+48,1,real,brain,neuron,computer,chip,6,8562
+48,2,filler,slavery,freedom,movie,scene,1,9166
+48,3,real,snail,shell,rabbit,burrow,5,8711
+48,4,real,egg,chicken,wine,vineyard,6,11807
+48,5,real,foot,shoe,wall,painting,5,9047
+48,6,real,veil,face,password,access,3,11919
+48,7,real,flock,bird,hangar,airplane,1,4591
+48,8,real,nurse,patient,frog,tadpole,1,4831
+48,9,attention check,one,two,three,four,4,6908
+48,10,real,dog,mailman,cat,mouse,5,4091
+48,11,filler,mall,shops,widow,husband,1,4759
+48,12,real,hat,head,disguise,identity,1,5911
+48,13,filler,beverage,water,deceit,truth,1,7999
+48,14,real,bird,feathers,cat,whiskers,6,4328
+48,15,filler,class,student,child,adult,1,5135
+48,16,real,lawyer,books,chemist,beakers,5,11272
+48,17,real,wedding,bride,aquarium,fish,5,11583
+48,18,attention check,one,two,three,zero,2,7012
+49,1,real,mask,face,disguise,identity,7,6663
+49,2,real,person,clothes,bird,feathers,7,5427
+49,3,real,pride,lion,computer,chip,4,5063
+49,4,real,egg,chicken,wine,vineyard,7,3456
+49,5,filler,slavery,freedom,movie,scene,1,3939
+49,6,real,wedding,bride,aquarium,fish,5,7344
+49,7,real,lawyer,books,librarian,books,6,4843
+49,8,real,hive,bee,hangar,airplane,4,3014
+49,9,attention check,one,two,three,four,7,4615
+49,10,real,student,backpack,snail,shell,4,4176
+49,11,filler,mall,shops,widow,husband,4,1898
+49,12,filler,class,student,child,adult,3,2033
+49,13,real,nurse,patient,frog,tadpole,6,3051
+49,14,real,dog,mailman,cat,mouse,7,3917
+49,15,real,foot,shoe,wall,painting,4,1853
+49,16,real,password,access,key,safe,6,1804
+49,17,filler,beverage,water,deceit,truth,4,1948
+49,18,attention check,one,two,three,zero,1,2988
+50,1,real,wedding,bride,aquarium,fish,1,4296
+50,2,real,nurse,patient,frog,tadpole,2,5165
+50,3,filler,class,student,child,adult,3,4374
+50,4,filler,beverage,water,deceit,truth,1,3433
+50,5,filler,mall,shops,widow,husband,1,2903
+50,6,real,lawyer,books,librarian,books,2,3034
+50,7,real,egg,chicken,wine,vineyard,7,4017
+50,8,real,mask,face,disguise,identity,7,4449
+50,9,attention check,one,two,three,zero,1,2814
+50,10,real,foot,shoe,wall,painting,1,3312
+50,11,real,pride,lion,computer,chip,1,2608
+50,12,real,person,clothes,bird,feathers,7,2670
+50,13,filler,slavery,freedom,movie,scene,1,3357
+50,14,real,hive,bee,hangar,airplane,2,5970
+50,15,real,password,access,key,safe,7,2820
+50,16,real,dog,mailman,cat,mouse,7,3227
+50,17,real,student,backpack,snail,shell,7,2604
+50,18,attention check,one,two,three,four,7,2237
+51,1,filler,beverage,water,deceit,truth,1,7760
+51,2,real,flock,bird,hangar,airplane,1,6727
+51,3,real,cocoon,butterfly,wine,vineyard,2,5964
+51,4,real,wedding,bride,carton,milk,3,5664
+51,5,filler,slavery,freedom,movie,scene,1,3261
+51,6,real,wrist,bracelet,wall,painting,5,4192
+51,7,real,pride,lion,brain,neuron,2,4062
+51,8,real,veil,face,password,access,3,7591
+51,9,attention check,one,two,three,zero,1,5663
+51,10,real,dog,mailman,horse,hay,1,4218
+51,11,real,nurse,patient,mother,baby,1,2606
+51,12,real,chemist,beakers,librarian,books,1,3291
+51,13,filler,mall,shops,widow,husband,2,5434
+51,14,real,bird,feathers,cat,whiskers,5,6754
+51,15,real,mask,face,disguise,identity,6,4220
+51,16,filler,class,student,child,adult,1,4009
+51,17,real,student,backpack,snail,shell,3,19989
+51,18,attention check,one,two,three,four,7,5502
+53,1,filler,beverage,water,deceit,truth,2,8247
+53,2,real,hat,head,mask,face,6,5551
+53,3,real,veil,face,password,access,4,8145
+53,4,real,flock,bird,hive,bee,7,3850
+53,5,real,person,clothes,cat,whiskers,2,7599
+53,6,real,chemist,beakers,librarian,books,6,6831
+53,7,real,wrist,bracelet,wall,painting,2,6969
+53,8,real,wedding,bride,carton,milk,2,5567
+53,9,attention check,one,two,three,zero,1,7277
+53,10,real,student,backpack,rabbit,burrow,5,7702
+53,11,filler,slavery,freedom,movie,scene,1,7445
+53,12,real,brain,neuron,computer,chip,7,3570
+53,13,filler,class,student,child,adult,1,5319
+53,14,real,dog,mailman,horse,hay,2,5163
+53,15,real,cocoon,butterfly,egg,chicken,7,6601
+53,16,filler,mall,shops,widow,husband,1,8750
+53,17,real,mother,baby,frog,tadpole,6,5817
+53,18,attention check,one,two,three,four,6,3933
+54,1,real,mother,baby,frog,tadpole,7,9328
+54,2,real,brain,neuron,computer,chip,7,5565
+54,3,filler,class,student,child,adult,2,21906
+54,4,real,dog,mailman,horse,hay,3,5902
+54,5,real,student,backpack,rabbit,burrow,3,11767
+54,6,real,flock,bird,hive,bee,5,7976
+54,7,real,wrist,bracelet,wall,painting,6,8774
+54,8,filler,beverage,water,deceit,truth,2,14711
+54,9,attention check,one,two,three,zero,1,3569
+54,10,filler,slavery,freedom,movie,scene,2,17161
+54,11,real,veil,face,password,access,5,10086
+54,12,filler,mall,shops,widow,husband,2,10626
+54,13,real,chemist,beakers,librarian,books,7,5268
+54,14,real,hat,head,mask,face,7,4305
+54,15,real,person,clothes,cat,whiskers,4,7641
+54,16,real,cocoon,butterfly,egg,chicken,7,5517
+54,17,real,wedding,bride,carton,milk,3,11754
+54,18,attention check,one,two,three,four,7,6486
+55,1,filler,beverage,water,deceit,truth,4,10850
+55,2,filler,class,student,child,adult,3,9727
+55,3,real,hat,head,mask,face,6,4054
+55,4,real,veil,face,password,access,6,3823
+55,5,filler,slavery,freedom,movie,scene,3,3439
+55,6,real,cocoon,butterfly,egg,chicken,5,4215
+55,7,real,chemist,beakers,librarian,books,6,4775
+55,8,real,flock,bird,hive,bee,6,2272
+55,9,attention check,one,two,three,zero,1,5690
+55,10,real,dog,mailman,horse,hay,4,4826
+55,11,real,person,clothes,cat,whiskers,6,4144
+55,12,real,wedding,bride,carton,milk,3,2951
+55,13,real,wrist,bracelet,wall,painting,5,3862
+55,14,filler,mall,shops,widow,husband,4,1960
+55,15,real,brain,neuron,computer,chip,5,1135
+55,16,real,mother,baby,frog,tadpole,5,2302
+55,17,real,student,backpack,rabbit,burrow,6,3623
+55,18,attention check,one,two,three,four,7,1876
+57,1,real,cat,mouse,horse,hay,2,9573
+57,2,filler,mall,shops,widow,husband,1,4793
+57,3,filler,beverage,water,deceit,truth,1,3931
+57,4,real,nurse,patient,mother,baby,6,4537
+57,5,real,password,access,key,safe,7,5422
+57,6,real,cocoon,butterfly,wine,vineyard,1,6452
+57,7,real,pride,lion,computer,chip,1,3614
+57,8,real,foot,shoe,wrist,bracelet,7,4859
+57,9,attention check,one,two,three,four,7,5068
+57,10,real,hat,head,mask,face,7,5083
+57,11,real,person,clothes,cat,whiskers,1,3137
+57,12,filler,class,student,child,adult,1,2892
+57,13,real,student,backpack,rabbit,burrow,1,2954
+57,14,real,flock,bird,hive,bee,7,3462
+57,15,filler,slavery,freedom,movie,scene,1,4254
+57,16,real,aquarium,fish,carton,milk,3,4526
+57,17,real,chemist,beakers,librarian,books,7,4075
+57,18,attention check,one,two,three,zero,1,3178
+58,1,filler,class,student,child,adult,3,3387
+58,2,filler,mall,shops,widow,husband,1,2189
+58,3,real,nurse,patient,mother,baby,5,2135
+58,4,real,flock,bird,hangar,airplane,3,2455
+58,5,real,wrist,bracelet,wall,painting,6,1606
+58,6,real,bird,feathers,cat,whiskers,6,1646
+58,7,real,chemist,beakers,librarian,books,7,1646
+58,8,real,wedding,bride,carton,milk,3,2238
+58,9,attention check,one,two,three,zero,1,2159
+58,10,real,mask,face,disguise,identity,5,1633
+58,11,real,veil,face,password,access,3,2039
+58,12,filler,slavery,freedom,movie,scene,1,2527
+58,13,real,pride,lion,brain,neuron,5,1766
+58,14,real,dog,mailman,horse,hay,1,1663
+58,15,filler,beverage,water,deceit,truth,2,1991
+58,16,real,cocoon,butterfly,wine,vineyard,6,2135
+58,17,real,student,backpack,snail,shell,5,1679
+58,18,attention check,one,two,three,four,7,1907
+59,1,filler,slavery,freedom,movie,scene,1,11186
+59,2,filler,beverage,water,deceit,truth,1,5222
+59,3,real,chemist,beakers,librarian,books,6,12407
+59,4,real,nurse,patient,mother,baby,5,8868
+59,5,filler,class,student,child,adult,1,5914
+59,6,filler,mall,shops,widow,husband,1,7384
+59,7,real,flock,bird,hangar,airplane,6,15209
+59,8,real,student,backpack,snail,shell,4,12693
+59,9,attention check,one,two,three,zero,1,5182
+59,10,real,mask,face,disguise,identity,6,15655
+59,11,real,veil,face,password,access,5,18647
+59,12,real,bird,feathers,cat,whiskers,5,8077
+59,13,real,cocoon,butterfly,wine,vineyard,1,12807
+59,14,real,wedding,bride,carton,milk,2,15495
+59,15,real,pride,lion,brain,neuron,3,12749
+59,16,real,wrist,bracelet,wall,painting,5,13038
+59,17,real,dog,mailman,horse,hay,4,12897
+59,18,attention check,one,two,three,four,7,4405
+60,1,filler,beverage,water,deceit,truth,2,4757
+60,2,real,flock,bird,hive,bee,6,3412
+60,3,real,person,clothes,cat,whiskers,4,3442
+60,4,real,brain,neuron,computer,chip,7,3480
+60,5,real,wedding,bride,carton,milk,3,6106
+60,6,real,veil,face,password,access,2,3885
+60,7,filler,class,student,child,adult,3,6357
+60,8,real,dog,mailman,horse,hay,5,5190
+60,9,attention check,one,two,three,four,7,3912
+60,10,filler,slavery,freedom,movie,scene,2,3784
+60,11,real,hat,head,mask,face,7,4111
+60,12,real,wrist,bracelet,wall,painting,5,6751
+60,13,real,student,backpack,rabbit,burrow,2,4675
+60,14,real,chemist,beakers,librarian,books,5,5672
+60,15,real,mother,baby,frog,tadpole,6,2896
+60,16,filler,mall,shops,widow,husband,2,4262
+60,17,real,cocoon,butterfly,egg,chicken,5,5595
+60,18,attention check,one,two,three,zero,1,2351
+61,1,real,bird,feathers,cat,whiskers,3,7630
+61,2,real,mask,face,disguise,identity,6,6245
+61,3,real,flock,bird,hangar,airplane,1,9284
+61,4,filler,class,student,child,adult,1,7750
+61,5,filler,slavery,freedom,movie,scene,1,5845
+61,6,real,nurse,patient,mother,baby,6,6806
+61,7,real,veil,face,password,access,6,14181
+61,8,real,cocoon,butterfly,wine,vineyard,2,12861
+61,9,attention check,one,two,three,zero,1,11494
+61,10,filler,beverage,water,deceit,truth,1,7194
+61,11,real,dog,mailman,horse,hay,1,38759
+61,12,real,wrist,bracelet,wall,painting,6,7726
+61,13,real,chemist,beakers,librarian,books,7,4294
+61,14,real,student,backpack,snail,shell,4,9491
+61,15,filler,mall,shops,widow,husband,1,21750
+61,16,real,pride,lion,brain,neuron,5,9772
+61,17,real,wedding,bride,carton,milk,6,5262
+61,18,attention check,one,two,three,four,7,3876
+62,1,real,cocoon,butterfly,wine,vineyard,2,6715
+62,2,real,student,backpack,rabbit,burrow,3,3680
+62,3,filler,beverage,water,deceit,truth,3,4304
+62,4,real,chemist,beakers,librarian,books,6,3664
+62,5,real,password,access,key,safe,5,3538
+62,6,real,nurse,patient,mother,baby,4,3551
+62,7,real,hat,head,mask,face,6,7295
+62,8,real,cat,mouse,horse,hay,3,5822
+62,9,attention check,one,two,three,four,7,5644
+62,10,real,pride,lion,computer,chip,3,7704
+62,11,filler,mall,shops,widow,husband,2,5855
+62,12,real,person,clothes,cat,whiskers,3,3485
+62,13,filler,slavery,freedom,movie,scene,1,4333
+62,14,real,flock,bird,hive,bee,6,5184
+62,15,real,foot,shoe,wrist,bracelet,5,3685
+62,16,real,aquarium,fish,carton,milk,4,3842
+62,17,filler,class,student,child,adult,2,5730
+62,18,attention check,one,two,three,zero,1,3480
+63,1,real,hat,head,mask,face,7,9584
+63,2,real,nurse,patient,mother,baby,7,5244
+63,3,real,cat,mouse,horse,hay,6,26316
+63,4,real,pride,lion,computer,chip,5,16388
+63,5,real,student,backpack,rabbit,burrow,6,6254
+63,6,filler,slavery,freedom,movie,scene,3,21614
+63,7,real,cocoon,butterfly,wine,vineyard,6,4222
+63,8,filler,class,student,child,adult,2,29500
+63,9,attention check,one,two,three,four,7,6649
+63,10,real,aquarium,fish,carton,milk,6,5302
+63,11,real,foot,shoe,wrist,bracelet,7,5383
+63,12,filler,beverage,water,deceit,truth,2,20017
+63,13,real,password,access,key,safe,3,15967
+63,14,real,chemist,beakers,librarian,books,7,9748
+63,15,real,person,clothes,cat,whiskers,5,30452
+63,16,filler,mall,shops,widow,husband,2,9483
+63,17,real,flock,bird,hive,bee,6,4817
+63,18,attention check,one,two,three,zero,2,4947
+64,1,real,student,backpack,snail,shell,7,7862
+64,2,real,flock,bird,hangar,airplane,5,11216
+64,3,real,nurse,patient,mother,baby,6,8260
+64,4,real,cocoon,butterfly,wine,vineyard,2,6595
+64,5,real,hat,head,mask,face,7,11594
+64,6,filler,mall,shops,widow,husband,1,6562
+64,7,real,chemist,beakers,librarian,books,7,4774
+64,8,real,cat,mouse,horse,hay,5,7869
+64,9,attention check,one,two,three,zero,1,11014
+64,10,real,bird,feathers,cat,whiskers,5,9206
+64,11,real,foot,shoe,wrist,bracelet,6,11279
+64,12,real,pride,lion,computer,chip,1,7262
+64,13,real,aquarium,fish,carton,milk,4,17230
+64,14,filler,class,student,child,adult,1,6068
+64,15,real,veil,face,key,safe,1,8487
+64,16,filler,slavery,freedom,movie,scene,1,15749
+64,17,filler,beverage,water,deceit,truth,1,10000
+64,18,attention check,one,two,three,four,7,4479
+65,1,real,mask,face,disguise,identity,5,32892
+65,2,filler,beverage,water,deceit,truth,4,13925
+65,3,real,wedding,bride,aquarium,fish,2,11776
+65,4,real,dog,mailman,cat,mouse,6,9740
+65,5,real,person,clothes,bird,feathers,7,5235
+65,6,filler,slavery,freedom,movie,scene,1,6313
+65,7,real,nurse,patient,frog,tadpole,1,13603
+65,8,filler,class,student,child,adult,1,7558
+65,9,attention check,one,two,three,four,7,5666
+65,10,real,pride,lion,computer,chip,1,13636
+65,11,real,foot,shoe,wall,painting,6,9851
+65,12,real,student,backpack,snail,shell,5,7983
+65,13,filler,mall,shops,widow,husband,1,6252
+65,14,real,egg,chicken,wine,vineyard,1,12107
+65,15,real,hive,bee,hangar,airplane,7,5123
+65,16,real,lawyer,books,librarian,books,1,14581
+65,17,real,password,access,key,safe,7,11244
+65,18,attention check,one,two,three,zero,1,3933
+66,1,filler,class,student,child,adult,1,4514
+66,2,real,hat,head,mask,face,7,4876
+66,3,real,pride,lion,computer,chip,2,4959
+66,4,filler,slavery,freedom,movie,scene,1,2318
+66,5,real,foot,shoe,wrist,bracelet,6,3735
+66,6,real,person,clothes,bird,feathers,4,4534
+66,7,real,aquarium,fish,carton,milk,4,5109
+66,8,real,veil,face,key,safe,2,2782
+66,9,attention check,one,two,three,zero,1,2471
+66,10,filler,mall,shops,widow,husband,1,3265
+66,11,real,student,backpack,rabbit,burrow,2,4806
+66,12,real,egg,chicken,wine,vineyard,3,6047
+66,13,real,lawyer,books,chemist,beakers,4,2822
+66,14,real,cat,mouse,horse,hay,5,4166
+66,15,filler,beverage,water,deceit,truth,1,4110
+66,16,real,hive,bee,hangar,airplane,5,3510
+66,17,real,nurse,patient,frog,tadpole,1,2886
+66,18,attention check,one,two,three,four,7,2491
+67,1,real,cat,mouse,horse,hay,2,6708
+67,2,real,foot,shoe,wrist,bracelet,6,5015
+67,3,real,cocoon,butterfly,wine,vineyard,3,5725
+67,4,filler,class,student,child,adult,3,3056
+67,5,real,bird,feathers,cat,whiskers,7,3057
+67,6,real,veil,face,key,safe,4,4199
+67,7,real,nurse,patient,mother,baby,7,2631
+67,8,filler,beverage,water,deceit,truth,1,4124
+67,9,attention check,one,two,three,four,7,3285
+67,10,filler,mall,shops,widow,husband,2,4461
+67,11,real,lawyer,books,chemist,beakers,7,3124
+67,12,real,aquarium,fish,carton,milk,7,2552
+67,13,real,hat,head,disguise,identity,2,4065
+67,14,filler,slavery,freedom,movie,scene,3,3476
+67,15,real,flock,bird,hangar,airplane,6,3469
+67,16,real,snail,shell,rabbit,burrow,6,2887
+67,17,real,pride,lion,brain,neuron,4,3317
+67,18,attention check,one,two,three,zero,1,2670
+68,1,real,dog,mailman,horse,hay,2,14401
+68,2,real,wedding,bride,carton,milk,1,13209
+68,3,filler,mall,shops,widow,husband,1,10843
+68,4,real,cocoon,butterfly,egg,chicken,7,14237
+68,5,real,hat,head,mask,face,7,7055
+68,6,real,wrist,bracelet,wall,painting,6,20938
+68,7,real,veil,face,password,access,1,10762
+68,8,real,brain,neuron,computer,chip,6,7320
+68,9,attention check,one,two,three,zero,1,4742
+68,10,real,flock,bird,hive,bee,7,4577
+68,11,filler,class,student,child,adult,1,10303
+68,12,real,person,clothes,cat,whiskers,3,13287
+68,13,real,student,backpack,rabbit,burrow,4,14551
+68,14,real,chemist,beakers,librarian,books,5,9904
+68,15,real,mother,baby,frog,tadpole,7,5671
+68,16,filler,slavery,freedom,movie,scene,1,5316
+68,17,filler,beverage,water,deceit,truth,1,6117
+68,18,attention check,one,two,three,four,7,2667
+69,1,real,hive,bee,hangar,airplane,6,4983
+69,2,real,student,backpack,snail,shell,2,8466
+69,3,filler,slavery,freedom,movie,scene,1,4507
+69,4,real,cocoon,butterfly,egg,chicken,2,5316
+69,5,real,mother,baby,frog,tadpole,7,6403
+69,6,real,wedding,bride,carton,milk,2,9211
+69,7,real,wrist,bracelet,wall,painting,4,4955
+69,8,filler,class,student,child,adult,1,3787
+69,9,attention check,one,two,three,zero,1,6591
+69,10,real,person,clothes,bird,feathers,6,4745
+69,11,filler,mall,shops,widow,husband,1,5900
+69,12,real,mask,face,disguise,identity,5,4446
+69,13,filler,beverage,water,deceit,truth,1,4387
+69,14,real,veil,face,key,safe,1,5197
+69,15,real,lawyer,books,librarian,books,3,4974
+69,16,real,pride,lion,brain,neuron,5,4932
+69,17,real,dog,mailman,horse,hay,1,3730
+69,18,attention check,one,two,three,four,7,5043
+70,1,real,wedding,bride,carton,milk,5,6433
+70,2,real,dog,mailman,horse,hay,1,4707
+70,3,real,person,clothes,cat,whiskers,1,5605
+70,4,filler,class,student,child,adult,7,8157
+70,5,real,cocoon,butterfly,egg,chicken,5,9498
+70,6,real,lawyer,books,librarian,books,1,5974
+70,7,real,mother,baby,frog,tadpole,5,6405
+70,8,filler,mall,shops,widow,husband,1,4670
+70,9,attention check,one,two,three,zero,1,3548
+70,10,real,wrist,bracelet,wall,painting,7,4708
+70,11,real,snail,shell,rabbit,burrow,5,5843
+70,12,filler,slavery,freedom,movie,scene,6,4692
+70,13,filler,beverage,water,deceit,truth,4,7326
+70,14,real,veil,face,password,access,5,7628
+70,15,real,flock,bird,hive,bee,5,6022
+70,16,real,mask,face,disguise,identity,5,4065
+70,17,real,pride,lion,brain,neuron,1,4103
+70,18,attention check,one,two,three,four,7,3430
+71,1,filler,slavery,freedom,movie,scene,1,8486
+71,2,filler,class,student,child,adult,1,8447
+71,3,filler,beverage,water,deceit,truth,2,5273
+71,4,real,egg,chicken,wine,vineyard,5,10272
+71,5,real,dog,mailman,cat,mouse,7,4458
+71,6,filler,mall,shops,widow,husband,3,6993
+71,7,real,password,access,key,safe,7,4499
+71,8,real,pride,lion,computer,chip,6,9954
+71,9,attention check,one,two,three,zero,1,3815
+71,10,real,nurse,patient,frog,tadpole,2,7978
+71,11,real,student,backpack,snail,shell,6,7144
+71,12,real,mask,face,disguise,identity,7,7143
+71,13,real,foot,shoe,wall,painting,5,4871
+71,14,real,hive,bee,hangar,airplane,7,3507
+71,15,real,person,clothes,bird,feathers,5,3981
+71,16,real,lawyer,books,librarian,books,5,5306
+71,17,real,wedding,bride,aquarium,fish,5,6022
+71,18,attention check,one,two,three,four,7,2805
+72,1,filler,mall,shops,widow,husband,3,7236
+72,2,real,flock,bird,hive,bee,7,4900
+72,3,real,foot,shoe,wrist,bracelet,5,5380
+72,4,real,aquarium,fish,carton,milk,6,3559
+72,5,filler,beverage,water,deceit,truth,1,6442
+72,6,real,nurse,patient,mother,baby,4,4593
+72,7,real,hat,head,mask,face,6,3607
+72,8,real,pride,lion,computer,chip,3,5809
+72,9,attention check,one,two,three,zero,4,4852
+72,10,real,person,clothes,cat,whiskers,2,7122
+72,11,real,student,backpack,rabbit,burrow,2,2941
+72,12,real,chemist,beakers,librarian,books,5,3038
+72,13,real,cocoon,butterfly,wine,vineyard,3,4911
+72,14,real,cat,mouse,horse,hay,4,4538
+72,15,filler,class,student,child,adult,1,3827
+72,16,filler,slavery,freedom,movie,scene,3,3615
+72,17,real,password,access,key,safe,4,4926
+72,18,attention check,one,two,three,four,4,2605
+73,1,filler,slavery,freedom,movie,scene,1,10752
+73,2,filler,mall,shops,widow,husband,1,13324
+73,3,real,wedding,bride,aquarium,fish,5,13435
+73,4,real,mother,baby,frog,tadpole,4,25036
+73,5,real,password,access,key,safe,4,36552
+73,6,real,lawyer,books,librarian,books,2,5594
+73,7,filler,beverage,water,deceit,truth,1,8000
+73,8,filler,class,student,child,adult,1,8446
+73,9,attention check,one,two,three,zero,1,10982
+73,10,real,cocoon,butterfly,egg,chicken,7,13460
+73,11,real,flock,bird,hive,bee,7,9757
+73,12,real,person,clothes,cat,whiskers,4,10659
+73,13,real,hat,head,disguise,identity,2,13360
+73,14,real,snail,shell,rabbit,burrow,1,6758
+73,15,real,foot,shoe,wall,painting,5,13163
+73,16,real,brain,neuron,computer,chip,5,8670
+73,17,real,dog,mailman,cat,mouse,6,13292
+73,18,attention check,one,two,three,four,7,8143
+74,1,filler,beverage,water,deceit,truth,1,22987
+74,2,real,nurse,patient,mother,baby,5,21615
+74,3,filler,slavery,freedom,movie,scene,1,10921
+74,4,real,wrist,bracelet,wall,painting,5,9448
+74,5,real,veil,face,password,access,2,26389
+74,6,real,chemist,beakers,librarian,books,6,6738
+74,7,real,student,backpack,snail,shell,4,38010
+74,8,real,cocoon,butterfly,wine,vineyard,1,11709
+74,9,attention check,one,two,three,zero,1,10533
+74,10,real,dog,mailman,horse,hay,1,4585
+74,11,real,pride,lion,brain,neuron,2,13994
+74,12,real,bird,feathers,cat,whiskers,4,9038
+74,13,filler,class,student,child,adult,1,5244
+74,14,filler,mall,shops,widow,husband,1,6016
+74,15,real,wedding,bride,carton,milk,1,10947
+74,16,real,mask,face,disguise,identity,3,10023
+74,17,real,flock,bird,hangar,airplane,1,3770
+74,18,attention check,one,two,three,four,6,7748
+75,1,real,aquarium,fish,carton,milk,7,15380
+75,2,real,person,clothes,bird,feathers,7,9458
+75,3,real,egg,chicken,wine,vineyard,5,14510
+75,4,real,hat,head,mask,face,7,7447
+75,5,filler,class,student,child,adult,1,9022
+75,6,real,pride,lion,computer,chip,4,20197
+75,7,real,student,backpack,rabbit,burrow,1,6058
+75,8,filler,beverage,water,deceit,truth,1,11260
+75,9,attention check,one,two,three,four,7,5884
+75,10,real,lawyer,books,chemist,beakers,6,9590
+75,11,real,cat,mouse,horse,hay,5,9567
+75,12,real,hive,bee,hangar,airplane,6,8802
+75,13,real,veil,face,key,safe,1,6653
+75,14,filler,slavery,freedom,movie,scene,1,10840
+75,15,real,foot,shoe,wrist,bracelet,7,10133
+75,16,filler,mall,shops,widow,husband,1,8848
+75,17,real,nurse,patient,frog,tadpole,2,14981
+75,18,attention check,one,two,three,zero,1,7243
