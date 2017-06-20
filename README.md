@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains the experimental results, data analysis, and model evaluation code from "Evaluating vector-space models of analogy" (Chen, Peterson, & Griffiths, to appear in the *CogSci 2017 Proceedings*). You can download the paper [here](https://arxiv.org/abs/1705.04416).
+This repository contains the experimental results, data analysis, and model evaluation code from "Evaluating vector-space models of analogy" (Chen, Peterson, & Griffiths, to appear in the *CogSci 2017 Proceedings*). You can download the paper [here](http://www.dawnchen.info/papers/vector_space_analogy_CogSci_2017.pdf).
 
 Each folder corresponds to one of the experiments. `relsim` contains the results, analysis, and model evaluation for Experiment 1 (basic relational similarity). `symmetry` contains everything pertaining to Experiment 2 (violations of symmetry in relational similarity judgments). `transitivity` corresponds to Experiment 3 (violations of transitivity in analogy quality judgments).
 
